@@ -19,6 +19,6 @@ Conforme avança pelas fases, o herói encontra criaturas excêntricas, algumas 
 - Trabalhar de forma iterativa e incremental utilizando GitHub.
 
 ## 📌 Links Importantes
-- Product Backlog: [Inserir link]
+- Product Backlog: (https://github.com/JoseLuiz095/a-aventura-de-um-homem-so/issues/1)
 - Sprint Backlog: [Inserir link]
 - Quadro Kanban: [Inserir link]
