@@ -21,4 +21,4 @@ Conforme avança pelas fases, o herói encontra criaturas excêntricas, algumas 
 ## 📌 Links Importantes
 - Product Backlog: (https://github.com/JoseLuiz095/a-aventura-de-um-homem-so/issues/1)
 - Sprint Backlog: (https://github.com/JoseLuiz095/a-aventura-de-um-homem-so/issues/2)
-- Quadro Kanban: [Inserir link]
+- Quadro Kanban: (https://github.com/users/JoseLuiz095/projects/1/views/1)
